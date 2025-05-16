@@ -54,6 +54,4 @@ The power subsystem must fulfill the following **8 requirements**:
 ---
 
 ## Repository Structure
-footprints
-shematcs
-gerber and drill files
+This repository contains drafts schematics, GERBER and DRILL files that were used throughout this project
